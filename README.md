@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sasindu Fernando</h1>
 <h3 align="center">A passionate frontend Developer, Backend Developer from Sri lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasindu2" alt="sasindu2" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sasindu2&theme=darkhub" alt="sasindu2" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [Ciao Broo](https://github.com/sasindu2/Ciao-Broo)
+- 🔭 I’m currently working on Restaurantt Management System  [Ciao Broo](https://github.com/sasindu2/Ciao-Broo)
 
 - 🌱 I’m currently learning **dotnet**
 
